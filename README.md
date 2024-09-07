@@ -1,4 +1,10 @@
 # myapp
+##Home Screen
+![alt text](https://github.com/rioten353/bloc_clean_code/blob/main/screenshot/image1.png)
+
+##Add Todo
+![alt text](https://github.com/rioten353/bloc_clean_code/blob/main/screenshot/image2.png)
+
 
 A new Flutter project.
 
